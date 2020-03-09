@@ -41,23 +41,7 @@ border: groove;
 
 }
 
-.nav {
-  margin: 30px;
-  padding: 20px 40px 40px;
-  max-width: 500px;
-  text-align: left;
-  color: white;
-  background: none;
-  border-bottom: 4px solid #ccc;
-  border-radius: 6px;
-  transition: all 1.5s;
-  border: solid 5px #ccc;
-}
 
-.nav:hover {
-      border-color: maroon;
-      color: #b3ff99;
-}
 
 .card {
   margin: 30px;
@@ -74,4 +58,21 @@ border: groove;
 .card:hover {
   border-color: maroon;
   color: #b3ff99;
+}
+.box {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 500px;
+  text-align: left;
+  color: white;
+  background: none;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all 1.5s;
+  border: solid 5px #ccc;
+}
+
+.box:hover {
+      border-color: maroon;
+      color: #b3ff99;
 }
